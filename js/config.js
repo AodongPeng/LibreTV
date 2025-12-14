@@ -54,7 +54,7 @@ const API_SITES = {
         detail: 'https://heimuer.tv', 
     },
     zy360: {
-        api: 'https://360zy.com/api.php/provide/vod',
+        api: 'https://360zyzz.com/api.php/provide/vod',
         name: '360资源',
     },
     iqiyi: {
